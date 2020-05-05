@@ -1,3 +1,1 @@
-var hello_world
-puts "hello world"
-end
+var hello_world = 'hello world'
